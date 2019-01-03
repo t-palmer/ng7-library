@@ -1,6 +1,6 @@
-# Ng7Library
+# ng7-library
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.1.4.
+This project is an example Angular 7 Workspace for creating an Angular Library.
 
 ## Development server
 
